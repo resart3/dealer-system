@@ -12,5 +12,6 @@ import Particle from './Particle'
 import TextEffect from './TextEffect'
 import DocumentCard from './DocumentCard'
 import NavTabs from './NavTabs'
+import Table from './Table'
 
-export { Hero, AdnButton, Navbar, Footer, SearchBar, AdnFilter, SearchManufacturer, CarCard, CarDetails, Modal, Particle, TextEffect, DocumentCard, NavTabs }
+export { Hero, AdnButton, Navbar, Footer, SearchBar, AdnFilter, SearchManufacturer, CarCard, CarDetails, Modal, Particle, TextEffect, DocumentCard, NavTabs, Table }
