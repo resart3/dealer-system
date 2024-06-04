@@ -1229,7 +1229,7 @@ export const columnsTable = [
   }
 ];
 
-export const dataTable = [
+export const dataTableConst = [
   {
     id: 1,
     title: "Beetlejuice",

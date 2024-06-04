@@ -65,3 +65,10 @@ export interface CustomFilterProps {
   title: string
   options: OptionProps[]
 }
+export interface dataTable{
+  id: number; 
+  title: string; 
+  year: string; 
+  runtime: string; 
+  genres: string[]; director: string; actors: string; plot: string; posterUrl: string;
+}
